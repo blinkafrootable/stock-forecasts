@@ -4,7 +4,6 @@ import random, time, operator, requests, os, pickle
 from stock import Stock
 from exchange import Exchange
 
-import xlsxwriter
 import pandas as pd
 from collections import OrderedDict
 
